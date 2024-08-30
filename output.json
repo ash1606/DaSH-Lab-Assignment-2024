@@ -1,0 +1,86 @@
+[
+    {
+        "Prompt": "What is an operating system?",
+        "Message": "An operating system (OS) is a software that manages computer hardware resources and provides common services to computer programs",
+        "TimeSent": 1724759760.5093122,
+        "TimeRecvd": 1724759762.8322027,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is the OSI model?",
+        "Message": "The OSI model, also known as the Open Systems Interconnection model, is a conceptual framework used to understand how data is transmitted over a network",
+        "TimeSent": 1724759762.8658652,
+        "TimeRecvd": 1724759764.7458436,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "Who was Alan Turing?",
+        "Message": "Alan Turing (1912-1954) was a British mathematician, computer scientist, logician, and philosopher who made significant contributions to the development of computer science, artificial intelligence, and cryptography",
+        "TimeSent": 1724759764.7810738,
+        "TimeRecvd": 1724759767.5629125,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "How do computer networks work?",
+        "Message": "Computer networks are a crucial part of modern computing, allowing devices to communicate and share resources with each other",
+        "TimeSent": 1724759767.5977554,
+        "TimeRecvd": 1724759770.2750103,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is the Linux Kernel?",
+        "Message": "The Linux kernel is the core part of a Linux operating system, responsible for managing hardware resources, providing services to applications, and enabling communication between hardware and software components",
+        "TimeSent": 1724759770.3120315,
+        "TimeRecvd": 1724759772.6312604,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is a File system?",
+        "Message": "A file system is a way to organize and store files on a computer or other digital device",
+        "TimeSent": 1724759772.6724021,
+        "TimeRecvd": 1724759774.7532547,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is Docker?",
+        "Message": "Docker is a containerization platform that allows developers to package, ship, and run applications in containers",
+        "TimeSent": 1724759774.7915623,
+        "TimeRecvd": 1724759777.4440932,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is a GPU and how is it different from a CPU?",
+        "Message": "A GPU (Graphics Processing Unit) is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device",
+        "TimeSent": 1724759777.4845715,
+        "TimeRecvd": 1724759779.4909394,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What are the layers of the OSI model?",
+        "Message": "The OSI (Open Systems Interconnection) model is a 7-layered framework for designing and implementing computer networks",
+        "TimeSent": 1724759779.529127,
+        "TimeRecvd": 1724759780.8241308,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is BeeGFS?",
+        "Message": "BeeGFS (formerly known as FhGFS) is a parallel file system, designed to provide high-performance and scalable storage for demanding workloads such as high-performance computing (HPC), artificial intelligence (AI), and data analytics",
+        "TimeSent": 1724759780.86202,
+        "TimeRecvd": 1724759782.5666122,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What are the various components that comprise a computer?",
+        "Message": "A computer consists of several components that work together to process, store, and communicate information",
+        "TimeSent": 1724759782.6004484,
+        "TimeRecvd": 1724759784.9188242,
+        "Source": "llama3-70b-8192"
+    },
+    {
+        "Prompt": "What is Federated Learning?",
+        "Message": "Federated Learning (FL) is a decentralized machine learning approach that enables multiple parties to collaboratively train a shared model on their local data without sharing the data itself",
+        "TimeSent": 1724759784.9516466,
+        "TimeRecvd": 1724759787.2735958,
+        "Source": "llama3-70b-8192"
+    }
+]
