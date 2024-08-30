@@ -1,0 +1,16 @@
+I have a few things in mind
+
+1. The first thing we can do is crop out the image data to contain only relevant information like faces, desks,
+hands, etc.
+
+2. After filtering out as much irrelevant data as possible we can further compress each image before sending it
+to the server which would further reduce the bandwidth usage, hence reducing the problem of network congestion.
+
+3. We can also stop continuous data transmission, and send data only when a different event occurs thus triggering
+the sensors. For example, if a student is looking at the teacher then from the first few frames we conclude he/she
+is attentive. In that case, there is no need to run the model and arrive at the same result every second. Instead,
+the data is only sent to the server when the sensor triggers a different state.
+
+4. We can use a computer with higher power than the node as the middleman between each node and the server enabling
+the ML model to be run individually. The updated parameters can then be sent to the server to reach the final updated
+weights and biases. This should create a resource constraint.
